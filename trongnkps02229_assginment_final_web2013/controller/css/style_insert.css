@@ -1,0 +1,130 @@
+body{margin:0;}
+.head{width:1366px;height:50px;background-color:black;
+position:fixed;}
+
+
+
+
+
+.logo{float:left;width:70px;height:30px;margin-top:10px;margin-left:130px;}
+
+/*.menu{float:left;width:85px;height:50px;line-height:50px;margin-left:50px;}
+
+.menu a{text-decoration:none;font-size:18px;color:#fff;}
+
+.menu a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+
+.menu1{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu1 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu1 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+.menu2{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu2 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu2 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+.menu3{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu3 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu3 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+
+.menu6{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu6 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu6 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+.menu5{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu5 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu5 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+
+.menu7{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu7 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu7 a:hover{text-decoration:none;font-size:18px;color:#fff;}*/
+/*. content .*/
+.box{width:1366px;
+}
+
+
+
+/*. foter .*/
+.foter{width:1366px;height:90px;background-color:black;text-align:center;color:#84848c;font-size:18px;line-height:20px;}
+.foter a{color:#84848c;font-size:18px;text-decoration:none;}
+.foter a:hover{color:#fff;font-size:18px;text-decoration:none;}
+
+
+.content{width:960px;height:850px;background-color:white;margin:0 auto;}
+
+
+.left{float:left;width:370px;margin-bottom:20px;}
+.khunganh{width:370px;height:500px;}
+.right{float:left;width:550px;margin-left:15px;margin-bottom:20px;}
+
+.tieudegioithieu{}
+.tieudegioithieu a{text-decoration:none;color:black;font-size:18px;font-weight:bold;}
+.tieudegioithieu a:hover{text-decoration:underline;color:black;font-size:18px;}
+
+.tieudegioithieu1{}
+.tieudegioithieu1 a{text-decoration:none;color:black;font-size:30px;font-weight:bold;}
+.tieudegioithieu1 a:hover{color:black;}
+
+
+.khungthem{float:left;width:275px;}
+
+.khunginput{margin-left:350px;width:310px;}
+
+.khungchua{height:40px;}
+.khungsp{float:left;width:150px;line-height:30px;}
+.khungnhapsp{float:left;width:158px;}
+
+#input_reset{float:right;width:70px;margin-right:-15px;}
+#input_reset1{float:right;width:70px;margin-right:-15px;}
+#input_reset2{float:right;width:70px;margin-right:-14px;}
+
+.khungchua1{height:40px;}
+.khungsp1{float:left;width:100px;line-height:30px;}
+.khungnhapsp1{float:left;width:158px;}
+
+.menu{
+	float:left;
+	
+	height:45px;
+	line-height:30px;
+        margin-left:8px;
+          width:960px;
+}
+.menu a{
+	float:left;
+	height:35px;
+	
+	color:#84848c;
+	text-decoration:none;
+	font-size:19px;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.menu a:hover{text-decoration:none;color:#fff;}
+
+input:focus {
+    background-color: #faf380;
+}
+textarea:focus {
+    background-color: #f1f1f1;
+}
+
+khungchua4{height:40px;}
+.khungsp4{float:left;width:120px;line-height:30px;}
+.khungnhapsp4{float:left;}

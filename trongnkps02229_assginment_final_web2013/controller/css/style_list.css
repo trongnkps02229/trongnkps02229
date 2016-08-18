@@ -1,0 +1,218 @@
+body{margin:0;}
+.head{width:1366px;height:50px;background-color:black;
+position:fixed;}
+
+
+
+
+
+.logo{float:left;width:70px;height:30px;margin-top:10px;margin-left:130px;}
+
+/*.menu{float:left;width:85px;height:50px;line-height:50px;margin-left:50px;}
+
+.menu a{text-decoration:none;font-size:18px;color:#fff;}
+
+.menu a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+
+.menu1{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu1 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu1 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+.menu2{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu2 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu2 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+.menu3{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu3 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu3 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+
+.menu6{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu6 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu6 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+.menu5{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu5 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu5 a:hover{text-decoration:none;font-size:18px;color:#fff;}
+
+
+.menu7{float:left;height:50px;line-height:50px;margin-left:50px;}
+
+.menu7 a{text-decoration:none;font-size:18px;color:#84848c;}
+
+.menu7 a:hover{text-decoration:none;font-size:18px;color:#fff;}*/
+
+/*. content .*/
+.box{width:1366px;
+}
+
+
+
+/*. foter .*/
+.foter{width:1366px;height:90px;background-color:black;text-align:center;color:#84848c;font-size:18px;line-height:20px;}
+.foter a{color:#84848c;font-size:18px;text-decoration:none;}
+.foter a:hover{color:#fff;font-size:18px;text-decoration:none;}
+
+
+.content{width:960px;background-color:white;margin:0 auto;padding-bottom:10px;}
+.content1{width:960px;background-color:white;margin:0 auto;height:700px;}
+.content2{width:960px;background-color:white;margin:0 auto;}
+.content3{width:960px;background-color:white;margin:0 auto;height:2800px;}
+.content4{width:960px;background-color:white;margin:0 auto;height:1000px;}
+
+
+.left{float:left;width:370px;margin-bottom:20px;margin-left:210px;}
+.khunganh{width:370px;height:500px;}
+.right{float:left;margin-left:15px;margin-bottom:20px;}
+
+.tieudegioithieu{}
+.tieudegioithieu a{text-decoration:none;color:black;font-size:18px;font-weight:bold;}
+.tieudegioithieu a:hover{text-decoration:underline;color:black;font-size:18px;}
+
+.tieudegioithieu1{width:960px;}
+.tieudegioithieu1 a{text-decoration:none;color:black;font-size:30px;font-weight:bold;}
+.tieudegioithieu1 a:hover{color:black;}
+
+.khungthem{float:left;width:275px;}
+
+
+
+.tensanpham{font-size:20px;color:blue;text-align:center;font-weight:bold;height:10px;}
+.tensanpham:hover{color:green;cursor:pointer;}
+
+
+.giasanpham{font-size:16px;color:red;cursor:pointer;text-align:center;font-weight:bold}
+.giasanpham:hover{color:green;cursor:pointer;}
+
+
+
+.cakhunghinhsanpham{width:960px;}
+.khunghinhsanpham{}
+.khunghinhsanpham:hover{box-shadow: 10px 10px 5px #888888;}
+.hinhanhao{}
+
+.hinhanhao:hover{
+}
+
+
+.khung_quanly{float:left;width:300px;text-decoration:none;margin-left:10px;}
+	
+
+.khung_quanly a{color:black;text-decoration:none;font-size:25px;}
+
+.khung_quanly a:hover{color:black;text-decoration:none;}
+
+
+
+
+.khung_taikhoan{width:300px;float:left;}
+
+
+.menu{
+	float:left;
+	
+	height:45px;
+	line-height:30px;
+        margin-left:8px;
+          width:960px;
+}
+.menu a{
+	float:left;
+	height:35px;
+	
+	color:#84848c;
+	text-decoration:none;
+	font-size:19px;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.menu a:hover{text-decoration:none;color:#fff;}
+
+
+
+
+#thoat a{
+    text-decoration: none;
+}
+
+#thoat a:hover{
+    text-decoration: none;
+    
+}
+
+
+
+
+.khungtailieu{float:left;width:100%;margin-bottom:50px;}
+.tailieu{float:left;width:100%;margin-bottom:10px;}
+.tailieu a{color:blue;text-decoration:none;cursor:pointer;font-size:20px;}
+.tailieu a:hover{color:#9e07f5;text-decoration:none;}
+.bangtailieu{width:100%;}
+
+#table{border-bottom:1px red solid;}
+#tr{border:1px red solid;}
+#td{border-bottom:1px red solid;width:70px;height:30px;text-align:center;font-weight:bold;color:black;}
+#td1{border:1px red solid;width:350px;height:30px;text-align:center;font-weight:bold;color:#f3f00a;}
+#td2{border:1px red solid;width:200px;height:30px;text-align:center;font-weight:bold;color:#f3f00a;}
+#td3{border:1px red solid;width:150px;height:30px;text-align:center;font-weight:bold;color:#f3f00a;}
+
+#tdd{border:1px red solid;width:70px;height:30px;text-align:center;font-weight:bold;}
+#tdd1{border:1px red solid;width:350px;height:30px;text-align:center;font-weight:bold;}
+#tdd2{border:1px red solid;width:200px;height:30px;text-align:center;font-weight:bold;}
+#tdd3{border:1px red solid;width:150px;height:30px;text-align:center;font-weight:bold;}
+
+
+/*................................... */
+
+
+
+
+#tddd{border:1px red solid;width:40px;height:30px;text-align:center;font-weight:bold;color:#f3f00a;}
+#tddd1{border:1px red solid;width:210px;height:30px;text-align:center;font-weight:bold;color:#f3f00a;}
+#tddd2{border:1px red solid;width:90px;height:30px;text-align:center;font-weight:bold;color:#f3f00a;}
+
+
+#tdddd{border:1px red solid;width:40px;height:30px;text-align:center;font-weight:bold;}
+#tdddd1{border:1px red solid;width:210px;height:30px;text-align:center;font-weight:bold;}
+#tdddd2{border:1px red solid;width:90px;height:30px;text-align:center;font-weight:bold;}
+
+
+
+
+
+
+.div_stt{float:left;width:30px;text-align:center;margin-left:50px;}
+
+#vien{border-bottom:3px red solid}
+#vien2{border-bottom:1px red solid;}
+.tenkhachang{float:left;}
+.tenkhachang1{};
+
+.tieudegioithieu2{}
+.tieudegioithieu2 a{text-decoration:none;color:black;font-size:15px;font-weight:bold;margin-left:50px;}
+.tieudegioithieu2 a:hover{color:black;font-size:15px;}
+
+
+#trr:hover{background-color:#f1f1f1;}
+
+.fix{background-image:url(../images/fix.png);width:30px;height:30px;marign-left:20px;}
+.fix:hover{background-image:url(../images/fix_1.png);}
+
+
+
+input:focus {
+    background-color: #faf380;
+}

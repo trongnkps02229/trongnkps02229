@@ -1,0 +1,77 @@
+body{margin:0;}
+.head{width:1366px;height:50px;background-color:black;
+position:fixed;}
+
+
+
+
+
+.logo{float:left;width:70px;height:30px;margin-top:10px;margin-left:130px;}
+
+
+
+/*. content .*/
+.box{width:1366px;height:1000px;
+}
+
+
+
+/*. foter .*/
+.foter{width:1366px;height:90px;background-color:black;text-align:center;color:#84848c;font-size:18px;line-height:20px;}
+.foter a{color:#84848c;font-size:18px;text-decoration:none;}
+.foter a:hover{color:#fff;font-size:18px;text-decoration:none;}
+
+
+.content{width:960px;background-color:white;margin:0 auto;}
+
+
+.left{float:left;width:370px;margin-bottom:20px;}
+.khunganh{width:370px;height:500px;}
+.right{float:left;width:550px;margin-left:15px;margin-bottom:20px;}
+
+.tieudegioithieu{}
+.tieudegioithieu a{text-decoration:none;color:black;font-size:18px;font-weight:bold;}
+.tieudegioithieu a:hover{text-decoration:underline;color:black;font-size:18px;}
+
+.tieudegioithieu1{}
+.tieudegioithieu1 a{text-decoration:none;color:black;font-size:30px;font-weight:bold;}
+.tieudegioithieu1 a:hover{}
+
+
+.khungthem{float:left;width:275px;}
+
+.khunginput{margin-left:350px;width:310px;}
+
+.khungchua{height:40px;}
+.khungsp{float:left;width:150px;line-height:30px;}
+.khungnhapsp{float:left;width:158px;}
+
+#input_reset{float:right;}
+
+.menu{
+	float:left;
+	
+	height:45px;
+	line-height:30px;
+        margin-left:20px;
+          width:960px;
+}
+.menu a{
+	float:left;
+	height:35px;
+	
+	color:#84848c;
+	text-decoration:none;
+	font-size:19px;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.menu a:hover{text-decoration:none;color:#fff;}
+
+
+
+input:focus {
+    background-color: #faf380;
+}
